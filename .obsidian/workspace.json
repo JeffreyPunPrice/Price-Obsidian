@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Payment/CreditCard.md",
+                "file": "Payment/Paypal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CreditCard"
+              "title": "Paypal"
             }
           }
         ],
@@ -167,6 +167,8 @@
   },
   "active": "7aaa6caf56b1f301",
   "lastOpenFiles": [
+    "Payment/Alipay.md",
+    "Payment/CreditCard.md",
     "Portals.md",
     "Payment.md",
     "Bugs and change request.md",
@@ -192,10 +194,8 @@
     "EC關連",
     "Merchant Interface/Merchant Interface.md",
     "Merchant Interface/新增 更新報價.md",
-    "Payment/CreditCard.md",
     "Merchant Interface/網店總覽.md",
     "Merchant Interface/增值記錄.md",
-    "Merchant Interface/客服帳號.md",
     "Untitled.canvas",
     "Image/ProductVariant.png",
     "Customer Interface",
