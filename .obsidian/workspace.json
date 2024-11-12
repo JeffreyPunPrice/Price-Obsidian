@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安心訂購.md",
+                "file": "PriceCare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "安心訂購"
+              "title": "PriceCare"
             }
           }
         ],
@@ -168,6 +168,12 @@
   "active": "7aaa6caf56b1f301",
   "lastOpenFiles": [
     "JIRA.md",
+    "List to install.md",
+    "Login info.md",
+    "Bug report.md",
+    "Portals.md",
+    "Payment.md",
+    "安心訂購.md",
     "To do list.md",
     "Admin Interface/Admin Interface.md",
     "Admin Interface/Price會員.md",
@@ -179,17 +185,11 @@
     "EC關連",
     "Merchant Interface/Merchant Interface.md",
     "Merchant Interface/新增 更新報價.md",
-    "Portals.md",
     "Bugs and change request.md",
     "Payment/CreditCard.md",
-    "Payment.md",
-    "安心訂購.md",
-    "Login info.md",
-    "Bug report.md",
     "Merchant Interface/網店總覽.md",
     "User Interface.md",
     "PriceCare.md",
-    "List to install.md",
     "Merchant Interface/增值記錄.md",
     "Merchant Interface/客服帳號.md",
     "Merchant Interface/訂單管理.md",
