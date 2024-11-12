@@ -27,7 +27,7 @@
 |            | 嵌入Youtube影片                                     | insert youtube videos in 情報                 |
 |            | 網站公告                                            | 登入後在top bar看到                               |
 |            | 電郵優惠內容                                          |                                             |
-|            | 地標                                              | just store locations                        |
+|            | 地標                                              | store merchant locations                    |
 |            | 登入記錄                                            | query type                                  |
 | Price會員管理  |                                                 |                                             |
 |            | [Price會員](Price會員.md)                           |                                             |
@@ -60,7 +60,7 @@
 |            | 批核Price Shop商戶訂閱                                | Approve price shop registration             |
 |            | Price Shop 收費管理                                 | Edit service charge                         |
 |            | Price Shop 優惠代碼推廣                               | Manage coupon code                          |
-|            | 批核Price Shop退款                                  | Manage refund                               |
+|            | Price Shop 退款申請                                 | Manage refund                               |
 |            | Price Shop financial report                     | Download a excel file about customer trades |
 |            | PriceShop交易及調整分錄報告                              | query type                                  |
 |            | 網購電子結單                                          | estatements                                 |

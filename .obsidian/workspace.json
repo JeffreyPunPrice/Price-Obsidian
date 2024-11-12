@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portals.md",
+                "file": "Admin Interface/Admin Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Portals"
+              "title": "Admin Interface"
             }
           }
         ],
@@ -167,6 +167,7 @@
   },
   "active": "7aaa6caf56b1f301",
   "lastOpenFiles": [
+    "Portals.md",
     "Bug report.md",
     "Payment.md",
     "PC關連/PriceCare.md",
@@ -176,7 +177,6 @@
     "JIRA.md",
     "List to install.md",
     "Login info.md",
-    "Portals.md",
     "PC關連/安心訂購.md",
     "Admin Interface/Admin Interface.md",
     "Admin Interface/Price會員.md",
