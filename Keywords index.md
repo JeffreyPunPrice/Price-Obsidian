@@ -15,7 +15,7 @@
 | M     | [MI](Merchant%20Interface)            | [Msite](Mobile%20Site)                   |                        |                          |
 | N     |                                       |                                          |                        |                          |
 | O     | O2O                                   |                                          |                        |                          |
-| P     | [PC](Price%20Compare.md)              | [PS](Price%20Shop.md)                    | [PriceCare](PriceCare) |                          |
+| P     | [PC](Price%20Compare.md)              | [PS](Price%20Shop.md)                    | [PriceCare](PriceCare.md) |                          |
 | Q     |                                       |                                          |                        |                          |
 | R     |                                       |                                          |                        |                          |
 | S     | SKU                                   |                                          |                        |                          |
@@ -26,5 +26,5 @@
 | X     |                                       |                                          |                        |                          |
 | Y     |                                       |                                          |                        |                          |
 | Z     |                                       |                                          |                        |                          |
-| Other | [安心訂購](安心訂購)                          |                                          |                        |                          |
+| Other | [安心訂購](安心訂購.md)                          |                                          |                        |                          |
 
