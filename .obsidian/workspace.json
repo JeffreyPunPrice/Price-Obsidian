@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin Interface/Admin Interface.md",
+                "file": "To do list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Admin Interface"
+              "title": "To do list"
             }
           }
         ],
@@ -161,13 +161,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7aaa6caf56b1f301",
   "lastOpenFiles": [
-    "Admin Interface/Price會員.md",
     "Admin Interface/Admin Interface.md",
+    "Admin Interface/Price會員.md",
     "Keywords index.md",
     "EC關連/Collection.md",
     "EC關連/Campaign Swiper.md",
