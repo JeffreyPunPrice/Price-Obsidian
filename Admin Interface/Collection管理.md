@@ -1,0 +1,2 @@
+- Manage collections of products
+- Products are pointed to products in priceshop, no additional discount
