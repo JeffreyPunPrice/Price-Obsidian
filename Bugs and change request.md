@@ -21,3 +21,4 @@ Set a bookmarked product reminder when some merchant claim the price lower than 
 
 ### Bugs to be file
 PDV-T13882 - Purchase EC product after product being deleted
+PDV-T9105 - unable to open hyperlink (filed issue)
