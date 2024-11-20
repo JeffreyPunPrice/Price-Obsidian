@@ -20,6 +20,8 @@ temp-mail - https://temp-mail.org/
 Using real data 
 sub-domain - preprod
 
+MI - https://preprod.price.com.hk/merchant-center/index.php
+
 e.g. https://preprod.price.com.hk/
 
 ### Demo
