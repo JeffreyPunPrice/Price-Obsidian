@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Login info.md",
+                "file": "To do list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Login info"
+              "title": "To do list"
+            }
+          },
+          {
+            "id": "eeb3e48015ebdb90",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           },
           {
@@ -34,6 +46,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -177,14 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7aaa6caf56b1f301",
+  "active": "eeb3e48015ebdb90",
   "lastOpenFiles": [
+    "Login info.md",
     "To do list.md",
     "商戶.md",
     "Admin Interface/Admin Interface.md",
     "Portals.md",
     "Payment/CreditCard.md",
-    "Login info.md",
     "Payment/Paypal.md",
     "Payment/Alipay.md",
     "Payment.md",
