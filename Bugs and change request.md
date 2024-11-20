@@ -18,3 +18,6 @@ https://shop.price.com.hk/power_digital/tnc/ This price shop's TNC point 6 why s
 Why not add an option to let merchant to insert free peripheral, let user to know the extra value / let merchant to appeal their gifted + able to search X日內包換 / 保養
 
 Set a bookmarked product reminder when some merchant claim the price lower than the threshold they set
+
+### Bugs to be file
+PDV-T13882 - Purchase EC product after product being deleted
