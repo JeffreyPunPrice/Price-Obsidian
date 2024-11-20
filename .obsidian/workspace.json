@@ -25,12 +25,14 @@
             "id": "eeb3e48015ebdb90",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Login info.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Login info"
             }
           },
           {
@@ -46,7 +48,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -190,13 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeb3e48015ebdb90",
+  "active": "7aaa6caf56b1f301",
   "lastOpenFiles": [
     "Login info.md",
+    "Portals.md",
     "To do list.md",
     "商戶.md",
     "Admin Interface/Admin Interface.md",
-    "Portals.md",
     "Payment/CreditCard.md",
     "Payment/Paypal.md",
     "Payment/Alipay.md",

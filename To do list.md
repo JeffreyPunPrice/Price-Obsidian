@@ -1,4 +1,4 @@
-O2O v2.5.2 google internal
+O2O subac instant logout checked
 
 6 weekly questions
 
