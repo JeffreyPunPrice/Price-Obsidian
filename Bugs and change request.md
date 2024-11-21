@@ -19,8 +19,9 @@ PDV-T13882 - Purchase EC product after product being deleted
 PDV-T9105 - unable to open hyperlink (filed issue)
 
 ### Outdated Test Case
+PDV-T8704
+PDV-T8705
 PDV-T8706
 PDV-T8707
 PDV-T8708
 PDV-T8709
-PDV-
