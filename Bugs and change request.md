@@ -1,8 +1,8 @@
 
 1. 新增/更新報價 - Unable to search product as new merchant ( require to switch to advance search and turn on 「所有產品」 ) - at least collapse the advance search for easy understanding
- 
-Eng - 半放棄狀態
-繁簡 - 有錯可以提出
+2. Why not add an option to let merchant to insert free peripheral, let user to know the extra value / let merchant to appeal their gifted + able to search X日內包換 / 保養
+
+Set a bookmarked product reminder when some merchant claim the price lower than the threshold they set
 
 https://shop.price.com.hk/power_digital/tnc/ This price shop's TNC point 6 why so weird
 ## Bugs
@@ -14,10 +14,13 @@ https://shop.price.com.hk/power_digital/tnc/ This price shop's TNC point 6 why s
 6. IOS 訂購記錄 部份退款有Label 但全額退款冇Label
 7. Invalid Action(6025) keeps happens in O2O
 
-Why not add an option to let merchant to insert free peripheral, let user to know the extra value / let merchant to appeal their gifted + able to search X日內包換 / 保養
-
-Set a bookmarked product reminder when some merchant claim the price lower than the threshold they set
-
 ### Bugs to be file
 PDV-T13882 - Purchase EC product after product being deleted
-PDV-T9105 - unable to open hyperlink (filed issue
+PDV-T9105 - unable to open hyperlink (filed issue)
+
+### Outdated Test Case
+PDV-T8706
+PDV-T8707
+PDV-T8708
+PDV-T8709
+PDV-
