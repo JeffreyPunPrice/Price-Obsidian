@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List to install.md",
+                "file": "Bugs and change request.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List to install"
+              "title": "Bugs and change request"
             }
           },
           {
@@ -194,6 +194,7 @@
   },
   "active": "eeb3e48015ebdb90",
   "lastOpenFiles": [
+    "List to install.md",
     "Login info.md",
     "To do list.md",
     "Portals.md",
@@ -212,7 +213,6 @@
     "PC關連",
     "User Interface.md",
     "JIRA.md",
-    "List to install.md",
     "PC關連/安心訂購.md",
     "Admin Interface/Price會員.md",
     "Keywords index.md",
