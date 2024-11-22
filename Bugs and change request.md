@@ -17,7 +17,7 @@ https://shop.price.com.hk/power_digital/tnc/ This price shop's TNC point 6 why s
 ### Bugs to be file
 PDV-T13882 - Purchase EC product after product being deleted
 PDV-T9105 - unable to open hyperlink (filed issue)
-
+PDV-T9914 - IOS no push notification
 ### Outdated Test Case
 PDV-T8704
 PDV-T8705
@@ -25,3 +25,4 @@ PDV-T8706
 PDV-T8707
 PDV-T8708
 PDV-T8709
+
