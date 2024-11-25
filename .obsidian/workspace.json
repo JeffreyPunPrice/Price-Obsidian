@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playwright/Untitled.md",
+                "file": "Playwright/playwright config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "playwright config"
             }
           }
         ],
@@ -168,7 +168,7 @@
   "active": "f35d9838ebbe46a2",
   "lastOpenFiles": [
     "Portals.md",
-    "Playwright/Untitled.md",
+    "Playwright/playwright config.md",
     "Login info.md",
     "List to install.md",
     "Playwright/MI/merchant-login.spec.ts.md",
