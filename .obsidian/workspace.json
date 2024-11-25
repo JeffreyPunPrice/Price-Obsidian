@@ -48,7 +48,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -192,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeb3e48015ebdb90",
+  "active": "7aaa6caf56b1f301",
   "lastOpenFiles": [
-    "Payment.md",
     "Bugs and change request.md",
+    "Payment.md",
     "List to install.md",
     "Login info.md",
     "To do list.md",
