@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portals.md",
+                "file": "Playwright/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Portals"
+              "title": "Untitled"
             }
           }
         ],
@@ -167,6 +167,8 @@
   },
   "active": "f35d9838ebbe46a2",
   "lastOpenFiles": [
+    "Portals.md",
+    "Playwright/Untitled.md",
     "Login info.md",
     "List to install.md",
     "Playwright/MI/merchant-login.spec.ts.md",
@@ -176,7 +178,6 @@
     "Bug report.md",
     "To do list.md",
     "Payment.md",
-    "Portals.md",
     "商戶.md",
     "Admin Interface/Admin Interface.md",
     "Payment/CreditCard.md",
@@ -197,7 +198,6 @@
     "EC關連/Collection Swiper.md",
     "EC關連/Campaign.md",
     "EC關連",
-    "Merchant Interface/Merchant Interface.md",
     "Untitled.canvas",
     "Image/ProductVariant.png",
     "Customer Interface",
