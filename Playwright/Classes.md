@@ -1,0 +1,4 @@
+OnePageTestFixtures = {
+	logger
+	page1 } 
+
