@@ -1,3 +1,6 @@
+- PriceLogger {
+  
+}
 - OnePageTestFixtures = {
 	logger,
 	page1 } 
