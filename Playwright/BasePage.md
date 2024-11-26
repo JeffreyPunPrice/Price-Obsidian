@@ -30,6 +30,22 @@ Switches case to call
 
 ## performLogin
 ({
-	*info*: **LoginParams**  `this.validateUsername`
-	*selector*: **LoginLocators**
+	*info*: **LoginParams** ⇒ `this.validateUsername`, `this.log.debug`, `this.navigateToLoginPage`
+	*selector*: **LoginLocators** ⇒ `this.clickLocator`
+})
+
+[this.validateUsername](#validateUsername)
+[this.log.debug](#log)
+[this.navigateToLoginPage](#navigateToLoginPage)
+
+## validateUsername
+({
+	*username*: **string**
+})
+
+Just throw error if *username* is **NULL**
+
+## navigateToLoginPage
+({
+url
 })
