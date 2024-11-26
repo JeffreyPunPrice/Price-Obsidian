@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playwright/homeShared.md",
+                "file": "Playwright/unorganized/fixtureShared.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homeShared"
+              "title": "fixtureShared"
             }
           }
         ],
@@ -167,15 +167,15 @@
   },
   "active": "e0d89ee8f3e2f04a",
   "lastOpenFiles": [
-    "Playwright/UI/user-login.spec.ts.md",
-    "Playwright/homeShared.md",
-    "fixtureShared.md",
-    "Playwright/unorganized/BasePage.md",
-    "Playwright/unorganized",
     "Playwright/unorganized/testLoginBase.md",
-    "Playwright/unorganized/uiPage.login.md",
-    "Playwright/unorganized/playwright config.md",
     "Playwright/unorganized/Classes.md",
+    "Playwright/unorganized/uiPage.login.md",
+    "Playwright/unorganized/homeShared.md",
+    "Playwright/unorganized/fixtureShared.md",
+    "Playwright/playwright config.md",
+    "Playwright/UI/BasePage.md",
+    "Playwright/UI/user-login.spec.ts.md",
+    "Playwright/unorganized",
     "Login info.md",
     "Bugs and change request.md",
     "Bug report.md",

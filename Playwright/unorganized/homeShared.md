@@ -20,7 +20,7 @@ return Promise\<IFailed\[\]\>
 
 
 ## test
-> created by [extendTestOnePage](fixtureShared#extendTestOnePage)([HomePage](HomePage#HomePage))
+> created by [extendTestOnePage](fixtureShared.md#extendTestOnePage)([HomePage](HomePage#HomePage))
 > 
 > test normally will have these (I think)
 >- logger
