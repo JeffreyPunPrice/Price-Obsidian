@@ -16,11 +16,38 @@ input
 return Promise\<IFailed\[\]\>
 
 [testLoginBase](testLoginBase.md)
-[uiPage.login](uiPage.login.md)
+[uiPage.login](HomePage.md#login)
 
+## testLoginBase
+input
+({
+	 *logger*: **PriceLogger** ⇒ used here
+	 *testInfo*: **TestInfo** ⇒ `caseName` ⇒ *logger*.start
+	 *uiPage*: **HomePage** ⇒ used here
+	 *langCode*: **LangCode** ⇒ `uiPage.switchLang`
+	 *loginType*: **LoginType** ⇒ `loginFunction`
+	 *info*: **LoginInfoType**\<LoginType\> ⇒ `loginFunction`
+	 *loginFunction*:  **Func Promise\<void\>**
+	 *expected* : { 
+		 *locator*: **string**;
+		 *expectedString*: **string**;
+	 } = null ⇒ `expect`
+	 *highlights?*: **string\[\]**
+})
+
+return Promise\<IFailed\[\]\>
+
+### function related
+[logger.start]
+[uiPage.visit]
+[uiPage.switchLang]
+[ui.Page.dismissCookieConsent]
+[logger.info]
+[logger.error]
+[logger.finish]
 
 ## test
-> created by [extendTestOnePage](fixtureShared.md#extendTestOnePage)([HomePage](HomePage#HomePage))
+> created by [extendTestOnePage](fixtureShared.md#extendTestOnePage)([HomePage](HomePage.md#HomePage))
 > 
 > test normally will have these (I think)
 >- logger

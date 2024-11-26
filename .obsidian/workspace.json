@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playwright/unorganized/fixtureShared.md",
+                "file": "Playwright/unorganized/homeShared.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fixtureShared"
+              "title": "homeShared"
             }
           }
         ],
@@ -167,14 +167,15 @@
   },
   "active": "e0d89ee8f3e2f04a",
   "lastOpenFiles": [
-    "Playwright/unorganized/testLoginBase.md",
+    "Playwright/unorganized/fixtureShared.md",
+    "Playwright/unorganized/homeShared.md",
+    "Playwright/UI/BasePage.md",
+    "Playwright/UI/HomePage.md",
+    "Playwright/UI/user-login.spec.ts.md",
     "Playwright/unorganized/Classes.md",
     "Playwright/unorganized/uiPage.login.md",
-    "Playwright/unorganized/homeShared.md",
-    "Playwright/unorganized/fixtureShared.md",
+    "Playwright/unorganized/testLoginBase.md",
     "Playwright/playwright config.md",
-    "Playwright/UI/BasePage.md",
-    "Playwright/UI/user-login.spec.ts.md",
     "Playwright/unorganized",
     "Login info.md",
     "Bugs and change request.md",
@@ -196,7 +197,6 @@
     "Payment/CreditCard.md",
     "Payment/Paypal.md",
     "Payment/Alipay.md",
-    "Admin Interface/Coupon.md",
     "Admin Interface/Push Notification.png",
     "PC關連",
     "EC關連",
