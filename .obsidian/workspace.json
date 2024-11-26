@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playwright/uiPage.login.md",
+                "file": "Playwright/BasePage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "uiPage.login"
+              "title": "BasePage"
             }
           }
         ],
@@ -165,13 +165,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b973dedb07ae714",
+  "active": "e0d89ee8f3e2f04a",
   "lastOpenFiles": [
-    "Playwright/UI/testLogin.md",
-    "Playwright/testLoginBase.md",
     "Playwright/uiPage.login.md",
-    "Playwright/Classes.md",
+    "Playwright/BasePage.md",
     "Playwright/playwright config.md",
+    "Playwright/Classes.md",
+    "Playwright/testLoginBase.md",
+    "Playwright/UI/testLogin.md",
     "Login info.md",
     "Bugs and change request.md",
     "Bug report.md",
@@ -197,7 +198,6 @@
     "Admin Interface/Feature Banner.md",
     "PC關連/PriceCare.md",
     "PC關連",
-    "PC關連/安心訂購.md",
     "EC關連",
     "Untitled.canvas",
     "Image/ProductVariant.png",

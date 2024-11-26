@@ -6,5 +6,6 @@ input
 
 return Promise\<void\>
 
-[this.log.info](abstract%20BasePage)
-[super.login]()
+[this.log.info](BasePage#log)
+[super.login](BasePage.md#login)
+
