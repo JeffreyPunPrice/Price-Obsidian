@@ -1,11 +1,11 @@
 input
 ({
-	 *logger*: **PriceLogger** ⇒ 
-	 *testInfo*: **TestInfo** ⇒ 
-	 *uiPage*: **HomePage** ⇒ 
+	 *logger*: **PriceLogger** ⇒ used here
+	 *testInfo*: **TestInfo** ⇒ `caseName` ⇒ *logger*.start
+	 *uiPage*: **HomePage** ⇒ used here
 	 *langCode*: **LangCode** ⇒ `uiPage.switchLang`
-	 *loginType*: **LoginType** ⇒ `testLoginBase`, `uiPage.login` ⇒ `testLoginBase`
-	 *info*: **LoginInfoType**\<LoginType\> ⇒ `testLoginBase`, `uiPage.login` ⇒ `testLoginBase`
+	 *loginType*: **LoginType** ⇒ `loginFunction`
+	 *info*: **LoginInfoType**\<LoginType\> ⇒ `loginFunction`
 	 *loginFunction*:  **Func Promise\<void\>**
 	 *expected* : { 
 		 *locator*: **string**;
@@ -15,3 +15,6 @@ input
 })
 
 return Promise\<IFailed\[\]\>
+
+### function related
+[logger.start]
