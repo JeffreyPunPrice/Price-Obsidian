@@ -1,2 +1,2 @@
 ## test
-> created by [extendTestOnePage](fixtureShared#extendTestOnePage)([HomePage](HomePa))
+> created by [extendTestOnePage](fixtureShared#extendTestOnePage)([HomePage](HomePage#HomePage))
