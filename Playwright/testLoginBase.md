@@ -18,3 +18,9 @@ return Promise\<IFailed\[\]\>
 
 ### function related
 [logger.start]
+[uiPage.visit]
+[uiPage.switchLang]
+[ui.Page.dismissCookieConsent]
+[logger.info]
+[logger.error]
+[logger.finish]
