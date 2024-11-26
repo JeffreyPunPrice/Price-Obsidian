@@ -15,11 +15,11 @@
 
 return Promise\<void\>
 
-Switches case to call
-- [this.emailLogin](#emailLogin)
-- [this.googleLogin]
-- [this.facebookLogin]
-- [this.appleLogin]
+> Switches case to call
+> - [this.emailLogin](#emailLogin)
+> - [this.googleLogin]
+> - [this.facebookLogin]
+> - [this.appleLogin]
 
 ## emailLogin
 ({
@@ -34,6 +34,8 @@ Switches case to call
 	*selector*: **LoginLocators** ⇒ `this.clickLocator`
 })
 
+> Click a bunch of locators and fill in user password
+
 [this.validateUsername](#validateUsername)
 [this.log.debug](#log)
 [this.navigateToLoginPage](#navigateToLoginPage)
@@ -43,9 +45,9 @@ Switches case to call
 	*username*: **string**
 })
 
-Just throw error if *username* is **NULL**
+> Just throw error if *username* is **NULL**
 
 ## navigateToLoginPage
 ({
-url
+	*url*: **string** | **null** = null
 })
