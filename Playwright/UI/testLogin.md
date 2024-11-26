@@ -15,4 +15,4 @@ input
 return Promise\<IFailed\[\]\>
 
 [testLoginBase](testLoginBase.md)
-[uiPage](uiPage)
+[uiPage.login](uiPage.login.md)
